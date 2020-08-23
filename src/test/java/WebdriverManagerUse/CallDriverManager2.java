@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class CallDriverManager
+public class CallDriverManager2
 {
 
 	@Test
